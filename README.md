@@ -1,0 +1,1 @@
+# pagamentos_simplefactory_abstractmethod
