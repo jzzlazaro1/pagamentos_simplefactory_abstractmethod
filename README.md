@@ -13,7 +13,7 @@ O que faz: Define uma família de algoritmos, encapsula cada um e os torna inter
 Em Pagamento, permite trocar facilmente entre Cartão, Pix ou Boleto.
 Em Notificacao, permite trocar facilmente entre E-mail, SMS ou WhatsApp.
 
-2. Abstract Factory Pattern (FábricaAbstrata)
+2. Abstract Factory Pattern (Fábrica Abstrata)
 Onde: Classes PagamentoFactory e NotificacaoFactory.
 
 O que faz: Fornece uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
